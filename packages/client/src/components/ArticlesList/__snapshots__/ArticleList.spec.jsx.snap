@@ -29,7 +29,7 @@ exports[`ArticlesList > should render 1`] = `
         <p
           class="published"
         >
-          07/05/2022, 16:46:50
+          07/05/2022, 14:46:50
         </p>
       </a>
       <a
@@ -56,7 +56,7 @@ En la noche del 29 de abril de 2022 Rusia hizo por fin el primer lanzamiento orb
         <p
           class="published"
         >
-          30/04/2022, 13:24:34
+          30/04/2022, 11:24:34
         </p>
       </a>
       <a
@@ -82,7 +82,7 @@ En la noche del 29 de abril de 2022 Rusia hizo por fin el primer lanzamiento orb
         <p
           class="published"
         >
-          27/04/2022, 14:40:57
+          27/04/2022, 12:40:57
         </p>
       </a>
       <a
@@ -108,7 +108,7 @@ En la noche del 29 de abril de 2022 Rusia hizo por fin el primer lanzamiento orb
         <p
           class="published"
         >
-          18/04/2022, 21:49:06
+          18/04/2022, 19:49:06
         </p>
       </a>
       <a
@@ -134,7 +134,7 @@ En la noche del 29 de abril de 2022 Rusia hizo por fin el primer lanzamiento orb
         <p
           class="published"
         >
-          18/04/2022, 23:50:00
+          18/04/2022, 21:50:00
         </p>
       </a>
       <a
@@ -160,7 +160,7 @@ En la noche del 29 de abril de 2022 Rusia hizo por fin el primer lanzamiento orb
         <p
           class="published"
         >
-          15/04/2022, 12:29:30
+          15/04/2022, 10:29:30
         </p>
       </a>
       <a
@@ -186,7 +186,7 @@ En la noche del 29 de abril de 2022 Rusia hizo por fin el primer lanzamiento orb
         <p
           class="published"
         >
-          06/05/2022, 14:30:00
+          06/05/2022, 12:30:00
         </p>
       </a>
       <a
@@ -212,7 +212,7 @@ En la noche del 29 de abril de 2022 Rusia hizo por fin el primer lanzamiento orb
         <p
           class="published"
         >
-          23/04/2022, 20:50:57
+          23/04/2022, 18:50:57
         </p>
       </a>
       <a
@@ -238,7 +238,7 @@ En la noche del 29 de abril de 2022 Rusia hizo por fin el primer lanzamiento orb
         <p
           class="published"
         >
-          20/04/2022, 00:24:45
+          19/04/2022, 22:24:45
         </p>
       </a>
       <a
@@ -264,7 +264,7 @@ En la noche del 29 de abril de 2022 Rusia hizo por fin el primer lanzamiento orb
         <p
           class="published"
         >
-          19/04/2022, 21:33:46
+          19/04/2022, 19:33:46
         </p>
       </a>
       <a
@@ -290,7 +290,7 @@ En la noche del 29 de abril de 2022 Rusia hizo por fin el primer lanzamiento orb
         <p
           class="published"
         >
-          29/04/2022, 14:23:03
+          29/04/2022, 12:23:03
         </p>
       </a>
       <a
@@ -316,7 +316,7 @@ En la noche del 29 de abril de 2022 Rusia hizo por fin el primer lanzamiento orb
         <p
           class="published"
         >
-          13/05/2022, 11:46:22
+          13/05/2022, 09:46:22
         </p>
       </a>
       <a
@@ -342,7 +342,7 @@ En la noche del 29 de abril de 2022 Rusia hizo por fin el primer lanzamiento orb
         <p
           class="published"
         >
-          03/05/2022, 08:51:00
+          03/05/2022, 06:51:00
         </p>
       </a>
       <a
@@ -368,7 +368,7 @@ En la noche del 29 de abril de 2022 Rusia hizo por fin el primer lanzamiento orb
         <p
           class="published"
         >
-          14/04/2022, 17:08:49
+          14/04/2022, 15:08:49
         </p>
       </a>
       <a
@@ -394,7 +394,7 @@ En la noche del 29 de abril de 2022 Rusia hizo por fin el primer lanzamiento orb
         <p
           class="published"
         >
-          20/04/2022, 17:43:13
+          20/04/2022, 15:43:13
         </p>
       </a>
       <a
@@ -420,7 +420,7 @@ En la noche del 29 de abril de 2022 Rusia hizo por fin el primer lanzamiento orb
         <p
           class="published"
         >
-          12/05/2022, 15:36:51
+          12/05/2022, 13:36:51
         </p>
       </a>
       <a
@@ -446,7 +446,7 @@ En la noche del 29 de abril de 2022 Rusia hizo por fin el primer lanzamiento orb
         <p
           class="published"
         >
-          03/05/2022, 17:01:15
+          03/05/2022, 15:01:15
         </p>
       </a>
       <a
@@ -472,7 +472,7 @@ En la noche del 29 de abril de 2022 Rusia hizo por fin el primer lanzamiento orb
         <p
           class="published"
         >
-          19/04/2022, 17:49:17
+          19/04/2022, 15:49:17
         </p>
       </a>
       <a
@@ -498,7 +498,7 @@ En la noche del 29 de abril de 2022 Rusia hizo por fin el primer lanzamiento orb
         <p
           class="published"
         >
-          04/05/2022, 14:03:23
+          04/05/2022, 12:03:23
         </p>
       </a>
       <a
@@ -524,7 +524,7 @@ En la noche del 29 de abril de 2022 Rusia hizo por fin el primer lanzamiento orb
         <p
           class="published"
         >
-          19/04/2022, 09:41:10
+          19/04/2022, 07:41:10
         </p>
       </a>
     </section>
