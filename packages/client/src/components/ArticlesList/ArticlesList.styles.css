@@ -1,0 +1,4 @@
+.list {
+    @apply mt-6 grid gap-x-6 gap-y-10 justify-items-center z-10;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+}

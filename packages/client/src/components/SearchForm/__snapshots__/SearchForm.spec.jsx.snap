@@ -1,0 +1,75 @@
+// Vitest Snapshot v1
+
+exports[`SearchForm > should render 1`] = `
+<body>
+  <div>
+    <form
+      class="flex flex-col pt-6 bg-white rounded"
+    >
+      <div
+        class="md:grid md:grid-cols-2"
+      >
+        <div
+          class="input-container md:mr-4"
+        >
+          <label
+            class="label"
+            for="topic"
+          >
+            Topic
+          </label>
+          <input
+            class="input"
+            id="topic"
+            name="topic"
+            placeholder="Topic to search"
+            type="text"
+          />
+        </div>
+        <div
+          class="md:grid md:grid-cols-2"
+        >
+          <div
+            class="input-container"
+          >
+            <label
+              class="label"
+              for="from"
+            >
+              Start date
+            </label>
+            <input
+              class="input"
+              id="from"
+              name="from"
+              type="date"
+            />
+          </div>
+          <div
+            class="input-container"
+          >
+            <label
+              class="label"
+              for="to"
+            >
+              End date
+            </label>
+            <input
+              class="input"
+              id="to"
+              name="to"
+              type="date"
+            />
+          </div>
+        </div>
+      </div>
+      <button
+        class="button self-start"
+        type="submit"
+      >
+        Search
+      </button>
+    </form>
+  </div>
+</body>
+`;

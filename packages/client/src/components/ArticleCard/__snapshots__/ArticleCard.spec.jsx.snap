@@ -1,0 +1,34 @@
+// Vitest Snapshot v1
+
+exports[`ArticleCard > should render 1`] = `
+<body>
+  <div>
+    <a
+      class="card"
+      href="https://www.enriquedans.com/2022/05/rusia-y-las-vpn-como-sintoma.html"
+      target="_blank"
+    >
+      <header>
+        <h2
+          class="title"
+        >
+          Rusia y las VPN como síntoma
+        </h2>
+      </header>
+      <img
+        alt="Rusia y las VPN como síntoma"
+        class="image"
+        src="https://www.enriquedans.com/wp-content/uploads/2022/05/VPN.jpeg"
+      />
+      <p>
+        Las descargas y el uso de redes privadas virtuales (VPNs) en Rusia se han disparado desde el inicio de la brutal invasión de Ucrania, con niveles que se aproximan al medio millón de descargas diario … [+3209 chars]
+      </p>
+      <p
+        class="published"
+      >
+        07/05/2022, 16:46:50
+      </p>
+    </a>
+  </div>
+</body>
+`;

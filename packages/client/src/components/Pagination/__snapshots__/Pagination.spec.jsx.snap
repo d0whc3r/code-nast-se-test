@@ -1,0 +1,34 @@
+// Vitest Snapshot v1
+
+exports[`Pagination > should render 1`] = `
+<body>
+  <div>
+    <div
+      class="container"
+    >
+      <button
+        class="button-text"
+        disabled=""
+      >
+        First
+      </button>
+      <button
+        class="button-text"
+        disabled=""
+      >
+        Previous
+      </button>
+      <button
+        class="button-text"
+      >
+        Next
+      </button>
+      <button
+        class="button-text"
+      >
+        Last
+      </button>
+    </div>
+  </div>
+</body>
+`;

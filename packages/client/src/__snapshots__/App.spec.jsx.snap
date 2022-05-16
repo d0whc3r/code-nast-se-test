@@ -1,0 +1,121 @@
+// Vitest Snapshot v1
+
+exports[`Simple working test > the title is visible 1`] = `
+<body>
+  <div>
+    <header>
+      <h1
+        class="text-center"
+      >
+        News board
+      </h1>
+    </header>
+    <main
+      class="md:container md:mx-auto"
+    >
+      <div
+        class="w-full"
+      >
+        <section
+          class="md:sticky md:inset-x-0 md:top-0 md:left-0 md:bg-white md:z-20 md:h-44 px-8"
+        >
+          <form
+            class="flex flex-col pt-6 bg-white rounded"
+          >
+            <div
+              class="md:grid md:grid-cols-2"
+            >
+              <div
+                class="input-container md:mr-4"
+              >
+                <label
+                  class="label"
+                  for="topic"
+                >
+                  Topic
+                </label>
+                <input
+                  class="input"
+                  id="topic"
+                  name="topic"
+                  placeholder="Topic to search"
+                  type="text"
+                />
+              </div>
+              <div
+                class="md:grid md:grid-cols-2"
+              >
+                <div
+                  class="input-container"
+                >
+                  <label
+                    class="label"
+                    for="from"
+                  >
+                    Start date
+                  </label>
+                  <input
+                    class="input"
+                    id="from"
+                    name="from"
+                    type="date"
+                  />
+                </div>
+                <div
+                  class="input-container"
+                >
+                  <label
+                    class="label"
+                    for="to"
+                  >
+                    End date
+                  </label>
+                  <input
+                    class="input"
+                    id="to"
+                    name="to"
+                    type="date"
+                  />
+                </div>
+              </div>
+            </div>
+            <button
+              class="button self-start"
+              type="submit"
+            >
+              Search
+            </button>
+          </form>
+        </section>
+        <div
+          class="px-8"
+        >
+          <div
+            data-testid="loading"
+          >
+            <div
+              class="w-full flex justify-center text-center m-10"
+            >
+              <svg
+                class="w-8 h-8 mr-2 text-gray-200 animate-spin dark:text-gray-600 fill-blue-600"
+                fill="none"
+                viewBox="0 0 100 101"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M100 50.59c0 27.615-22.386 50.001-50 50.001s-50-22.386-50-50 22.386-50 50-50 50 22.386 50 50Zm-90.919 0c0 22.6 18.32 40.92 40.919 40.92 22.599 0 40.919-18.32 40.919-40.92 0-22.598-18.32-40.918-40.919-40.918-22.599 0-40.919 18.32-40.919 40.919Z"
+                  fill="currentColor"
+                />
+                <path
+                  d="M93.968 39.04c2.425-.636 3.894-3.128 3.04-5.486A50 50 0 0 0 41.735 1.279c-2.474.414-3.922 2.919-3.285 5.344.637 2.426 3.12 3.849 5.6 3.484a40.916 40.916 0 0 1 44.131 25.769c.902 2.34 3.361 3.802 5.787 3.165Z"
+                  fill="currentFill"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+</body>
+`;

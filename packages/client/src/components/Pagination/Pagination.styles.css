@@ -1,0 +1,3 @@
+.container {
+    @apply mt-5 flex flex-row items-center justify-center gap-4;
+}
