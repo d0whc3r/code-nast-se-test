@@ -52,3 +52,13 @@ Testing:
 ```bash
 yarn test
 ```
+
+# Future work
+
+- Add e2e tests
+- Add linting
+- Improve pipeline with coverage upload and code quality tools
+- Add tests for client context
+- Add typescript
+- Add husky to check linting before commit/push
+- Pipeline for auto deploy in dev/pre/uat environment
