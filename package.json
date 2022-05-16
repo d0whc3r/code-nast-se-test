@@ -1,0 +1,30 @@
+{
+  "name": "code-nast",
+  "version": "1.0.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "private": true,
+  "license": "MIT",
+  "scripts": {
+    "--- SERVER ---": "",
+    "server": "yarn workspace server",
+    "server:dev": "yarn server dev",
+    "server:start": "yarn server start",
+    "server:test": "yarn server test",
+    "--- CLIENT ---": "",
+    "client": "yarn workspace client",
+    "client:dev": "yarn client dev",
+    "client:test": "yarn client test",
+    "client:build": "yarn client build",
+    "client:preview": "yarn client preview",
+    "client:start": "run-s client:build client:preview",
+    "--- ALL ---": "",
+    "dev": "run-p server:dev client:dev",
+    "test": "run-p server:test client:test",
+    "start": "run-p server:start client:start"
+  },
+  "devDependencies": {
+    "npm-run-all": "4.1.5"
+  }
+}
