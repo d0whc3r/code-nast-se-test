@@ -2,7 +2,7 @@
 Technical test for code-nast. This repository is a monorepo with [yarn workspaces](https://classic.yarnpkg.com/lang/en/docs/workspaces/) it contains a `server` and a `client`
 
 ## Server
-Node with express
+Node with express (and jest)
 
 Run server (development):
 ```bash
@@ -20,7 +20,7 @@ yarn server:test
 ```
 
 ## Client
-React 18
+React 18 with vite (and vitest) + tailwindcss
 
 Run client (development):
 ```bash
